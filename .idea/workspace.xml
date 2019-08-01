@@ -2,6 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="b87c5fc4-c0c0-44c5-8a9f-fd95d316f312" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/linux_tes2t.php" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/linux_test.php" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/testhtml.html" beforeDir="false" />
@@ -71,7 +72,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1564650820707</updated>
-      <workItem from="1564650822220" duration="1890000" />
+      <workItem from="1564650822220" duration="2016000" />
     </task>
     <task id="LOCAL-00001" summary="test">
       <created>1564651091643</created>
